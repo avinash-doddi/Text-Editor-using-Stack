@@ -227,7 +227,7 @@ void erase()  // erase function - erases the complete text
     }
 }
 
-int main()
+int main()  // main function
 {
     string ch;
     cout << "1.enter - to enter input text \t\t 2.display - to display output\n";
