@@ -160,17 +160,16 @@ void redo() // redo function - helps to redo the recent operation or text
     }
     else
     {  
-        while(!txt.empty())
-        {
-            rev.push(txt.top());
-            txt.pop();
-        }
         
         rev.push(backup1.top());
         backup1.pop();
         cout << "Redo performed\n";
 
-        
+        while(!rev.empty())
+        {
+            txt.push(rev.top());
+            rev.pop();
+        }
         
     }
 }
