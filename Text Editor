@@ -17,13 +17,13 @@ stack < string > txt, backup, backup1, rev;
 
 string reff = "", alt = "";
 
-void enter()  // Input function - takes input text and inserts them in stack
+void enter()  // Input function - takes input text and inserts them in stack 
 {
     string s;
 
     cout << "Enter the Text:\n\n";
     
-    cin.ignore(); // to make getline() function to take compelete string as input
+    cin.ignore(); // to make getline() function to take compelete string as input i.e clears buffer
 
     std::getline(cin,s);
 
