@@ -5,7 +5,7 @@
 #include <stack>
 #include <ctype.h>
 
-#define strong "\e[1m"
+#define strong "\e[1m"  // "\e" indicates font change
 #define light "\e[2m"
 #define em "\e[3m"
 #define undscrl "\e[4m"
