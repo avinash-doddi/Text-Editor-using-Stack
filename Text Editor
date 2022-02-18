@@ -23,7 +23,7 @@ void enter()  // Input function - takes input text and inserts them in stack
 
     cout << "Enter the Text:\n\n";
     
-    cin.ignore();
+    cin.ignore(); // to make getline()
 
     std::getline(cin,s);
 
