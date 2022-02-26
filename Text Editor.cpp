@@ -54,7 +54,7 @@ void printem() // print italic function - prints text in italic font
 {
     if (txt.empty()) 
     {
-        cout << em << "Nothing to print.. Please Enter Text\n\n" << clear;
+        cout << em << "Nothing to print.. Please Enter Text\n\n" << clear;  // clear to clear the font style
         enter();
     }
     else{
