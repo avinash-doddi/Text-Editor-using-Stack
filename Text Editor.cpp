@@ -33,7 +33,6 @@ void enter()  // Input function - takes input text and inserts them in stack
         if (s[i] == ' ')
         {
             rev.push(alt); 
-            //rev.push(" ");
             alt = "";
         }
         else if (i == n-1)
