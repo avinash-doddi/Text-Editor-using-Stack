@@ -1,5 +1,6 @@
 /* DS project by  avinash-doddi */
-/**/
+/* A Basic Text Editor that performs Entering data, Undo*/
+
 #include <bits/stdc++.h>
 #include <algorithm>
 #include <stack>
