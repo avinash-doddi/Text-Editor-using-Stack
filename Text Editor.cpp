@@ -14,7 +14,7 @@
 using namespace std;
 
 stack < string > txt, backup, backup1, rev;
-/* dox: backup1 , backup are used to store any string that is deleted /*
+/* dox: backup1 , backup are used to store any string that is deleted, so that undo can be performed /*
 string reff = "", alt = "";
 
 void enter()  // Input function - takes input text and inserts them in stack 
