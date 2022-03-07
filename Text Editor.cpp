@@ -1,5 +1,5 @@
 /* DS project by  avinash-doddi (Avinash Doddi)*/
-/* A Basic Text Editor that performs Entering data, Undo, Redo, Erase and All HTML fonts (*bold, italic, underlined) */
+/* A Basic Text Editor that performs Entering data, Undo, Redo, Erase and All HTML fonts (bold, italic, underlined) */
 
 #include <bits/stdc++.h>
 #include <algorithm>
