@@ -1,4 +1,4 @@
-/* DS project by  avinash-doddi */
+/* DS project by  avinash-doddi (Avinash Doddi)*/
 /* A Basic Text Editor that performs Entering data, Undo, Redo, Erase and All HTML fonts */
 
 #include <bits/stdc++.h>
