@@ -3,6 +3,7 @@
 
 #include <bits/stdc++.h>
 #include <algorithm>
+#include <cstring>
 #include <stack>
 #include <ctype.h>
 
