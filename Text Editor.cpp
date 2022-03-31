@@ -12,7 +12,6 @@
 #define undscrl "\e[4m"
 #define clear "\e[0m
 
-
 using namespace std;
 
 stack < string > txt, backup, backup1, rev;
