@@ -10,7 +10,7 @@
 #define light "\e[2m"   // "[o,1,2,3,4m's indicate the font style
 #define em "\e[3m"
 #define undscrl "\e[4m"
-#define clear "\e[0m"
+
 
 
 using namespace std;
